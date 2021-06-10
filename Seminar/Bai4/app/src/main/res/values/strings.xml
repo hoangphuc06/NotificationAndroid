@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo3</string>
+    <string name="channel_name">Channel 1</string>
+    <string name="channel_decription">This is Channel 1</string>
+</resources>
